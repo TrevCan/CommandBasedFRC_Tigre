@@ -1,0 +1,8 @@
+Recursos de aprendizaje para OOP (Object Oriented Programming)
+
+https://youtu.be/CWYv7xlKydw
+https://youtu.be/j0lBrYSlYaU
+https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i
+
+Documentación oficial de WPILib
+https://docs.wpilib.org/
