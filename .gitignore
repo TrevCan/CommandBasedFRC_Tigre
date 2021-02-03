@@ -77,23 +77,23 @@ hs_err_pid*
 #
 # ### Vim ###
 # # Swap
-# [._]*.s[a-v][a-z]
-# !*.svg  # comment out if you don't need vector files
-# [._]*.sw[a-p]
-# [._]s[a-rt-v][a-z]
-# [._]ss[a-gi-z]
-# [._]sw[a-p]
+[._]*.s[a-v][a-z]
+!*.svg  # comment out if you don't need vector files
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
 #
 # # Session
-# Session.vim
-# Sessionx.vim
+Session.vim
+Sessionx.vim
 #
 # # Temporary
-# .netrwhist
-# *~
+.netrwhist
+*~
 # # Auto-generated tag files
-# tags
+tags
 # # Persistent undo
-# [._]*.un~
+[._]*.un~
 #
-# # End of https://www.toptal.com/developers/gitignore/api/vim
+# End of https://www.toptal.com/developers/gitignore/api/vim
